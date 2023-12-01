@@ -19,5 +19,7 @@ resource "local_file" "bookseven" {
         This sentence contains one of those highly condensed and somewhat enigmatical expressions of which Sun Tzu is so fond. This is how it is explained by Ts ao Kung: Make it appear that you are a long way off, then cover the distance rapidly and arrive on the scene before your opponent. 
         
         Tu Mu says: Hoodwink the enemy, so that he may be remiss and leisurely while you are dashing along with utmost speed. Ho Shih gives a slightly different turn: Although you may have difficult ground to traverse and natural obstacles to encounter this is a drawback which can be turned into actual advantage by celerity of movement. Signal examples of this saying are afforded by the two famous passages across the Alps—that of Hannibal, which laid Italy at his mercy, and that of Napoleon two thousand years later, which resulted in the great victory of Marengo.
+
+        Without harmony in the State, no military expedition can be undertaken; without harmony in the army, no battle array can be formed. In an historical romance Sun Tzu is represented as saying to Wu Yuan: As a general rule, those who are waging war should get rid of all the domestic troubles before proceeding to attack the external foe.
     EOT
 }

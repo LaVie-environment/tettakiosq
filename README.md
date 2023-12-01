@@ -10,3 +10,7 @@ The first block, `terraform{..}` is a special config block responsible for confi
 The second configuration block is a resource block that declares a local_file resource. it provisions a text file with a given filename and content value.
 
     using heredoc syntax (<<-)to input a multiline string literal.
+
+    Run `terraform init` to initialize the workspace
+
+    
